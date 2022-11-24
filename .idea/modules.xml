@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DroidCafeWithSettings.iml" filepath="$PROJECT_DIR$/.idea/modules/DroidCafeWithSettings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafeWithSettings.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafeWithSettings.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafeWithSettings.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafeWithSettings.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafeWithSettings.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafeWithSettings.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafeWithSettings.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafeWithSettings.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
